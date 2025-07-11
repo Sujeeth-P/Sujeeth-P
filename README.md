@@ -48,7 +48,7 @@ An e-commerce web app inspired by Flipkart, built with the MERN stack (MongoDB, 
 📫 Connect with Me
 
 - 📞 Phone: +91 94873 48790
-- website: (https://sujeethz-portfolio.netlify.app/) 
+- website: https://sujeethz-portfolio.netlify.app/ 
 - 📧 Email: [sujeeth9487@gmail.com](mailto:sujeeth9487@gmail.com)  
 - 🔗 [LinkedIn](https://linkedin.com/in/sujeeth-p)  
 - 💻 [GitHub](https://github.com/Sujeeth-P)

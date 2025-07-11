@@ -7,9 +7,9 @@ Hi, I'm Sujeeth P, a dedicated Full Stack Developer currently pursuing BSc in So
 ## 🚀 Tech Stack
 
 ### 🧩 Frontend
-- React.js
 - HTML / CSS
 - JavaScript
+- React.js
 - Bootstrap
 
 ### 🛠 Backend

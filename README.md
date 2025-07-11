@@ -4,32 +4,30 @@ Hi, I'm Sujeeth P, a dedicated Full Stack Developer currently pursuing BSc in So
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack 
 
 ### 🧩 Frontend
 - HTML / CSS
 - JavaScript
-- React.js
-- Bootstrap
+- React.js 
+- Bootstrap 
 
 ### 🛠 Backend
+- Java
 - Node.js
 - Express.js
-- Java
 - Spring Boot
 - REST APIs
 - Python (for ML integration)
 
 ### 🗄️ Database
 - MongoDB
-- MySQL
-- SQLite
+- SQL
 
 ### 🔧 Tools & Platforms
 - Git & GitHub
 - Postman
 - VS Code
-- Azure (AI Engineer Certified)
 - Linux Basics
 
 ---

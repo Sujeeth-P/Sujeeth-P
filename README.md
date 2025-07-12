@@ -1,6 +1,7 @@
 <img src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif">
 
 
+
 # 👨‍💻 Hi👋, I'm Sujeeth P - Full Stack Developer
 
 <p align="left">Hi, I'm Sujeeth P, a dedicated Full Stack Developer currently pursuing BSc in Software Systems at Kongu Engineering College. I enjoy turning innovative ideas into real-world projects using modern technologies and clean UI/UX. With a passion for development and AI, I love building impactful solutions that blend functionality with simplicity.</p>

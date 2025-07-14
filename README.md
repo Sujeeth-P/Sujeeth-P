@@ -51,7 +51,7 @@ An e-commerce web app inspired by Flipkart, built with the MERN stack (MongoDB, 
 - 🌐 website: https://sujeethz-portfolio.netlify.app/ 
 - 📧 Email: [sujeeth9487@gmail.com](mailto:sujeeth9487@gmail.com)  
 - 🔗 [LinkedIn](https://linkedin.com/in/sujeeth-p)  
-- 💻 [GitHub](https://github.com/Sujeeth-P)
+  
 
 <!--
 **Sujeeth-P/Sujeeth-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

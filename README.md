@@ -80,6 +80,9 @@ An e-commerce web application inspired by Flipkart, built with the MERN stack (M
 </div>
 
 ---
+<img src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/refs/heads/main/assests/loficity.gif" alt="Banner" width="100%">
+
+---
 
 ## 📫 Connect with Me
 

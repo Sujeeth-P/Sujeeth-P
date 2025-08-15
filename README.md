@@ -98,7 +98,7 @@ An e-commerce web application inspired by Flipkart, built with the MERN stack (M
 
 <div align="center">
   
-### 💡 *"Turning ideas into reality through code"*
+### *"Turning ideas into reality through code"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sujeeth-P&color=brightgreen)
 

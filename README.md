@@ -70,10 +70,10 @@ An e-commerce web application inspired by Flipkart, built with the MERN stack (M
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujeeth-P&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujeeth-P&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujeeth-P&theme=dark&hide_border=false&layout=compact" alt="Top Languages" height="450"/>  <img src="https://github-readme-stats.vercel.app/api?username=Sujeeth-P&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="350"/> 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sujeeth-P&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sujeeth-P&theme=dark&hide_border=false&include_all_commits=false&count_private=false) >-->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sujeeth-P&theme=dark&hide_border=false)
 

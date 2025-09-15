@@ -75,7 +75,7 @@ An e-commerce web application inspired by Flipkart, built with the MERN stack (M
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sujeeth-P&theme=dark&hide_border=false&include_all_commits=false&count_private=false) >-->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sujeeth-P&theme=dark&hide_border=false)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sujeeth-P&theme=dark&hide_border=false) >-->
 
 </div>
 
